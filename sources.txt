@@ -1,1 +1,9 @@
-# Essay
+Essay - sources
+
+1. https://computer.howstuffworks.com/c-programming11.htm 
+
+2. https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/geninfo/diagnos/garbage_collect.html
+
+3. https://betsol.com/2017/06/java-memory-management-for-java-virtual-machine-jvm
+
+4. https://www.businessinsider.com/14-most-popular-programming-languages-stack-overflow-developer-survey-2018-4?r=US&IR=T
